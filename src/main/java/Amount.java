@@ -1,4 +1,4 @@
 
 public class Amount {
-int a=15;
+int a=155;
 }
